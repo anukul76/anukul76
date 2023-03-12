@@ -1,6 +1,6 @@
 Welcome to my GitHub profile!
 About Me
-Hello, my name is Anukul Kumar, and I am a Technical Support Engineer. I have a passion for Trouble Shooting ,HTML,CSS,Advance JavaScript. I am a student in Masai school, and I have worked on various projects, some of the deployed link of my projects are 
+Hello, my name is Anukul Kumar, and I am a Technical Support Engineer. I have a passion for Trouble Shooting ,HTML,CSS,Advance JavaScript.I have worked on a variety of projects while attending Masai school, some of which have been deployed.
 
 https://harmonious-druid-e5f2ce.netlify.app
 
