@@ -9,9 +9,6 @@ Welcome to my GitHub profile!
 <h1 align="center">Hi 👋, I'm Anukul kumar</h1>
 <h3 align="center">A passionate Technical Support Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anukul76&label=Profile%20views&color=0e75b6&style=flat" alt="anukul76" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anukul76" alt="anukul76" /></a> </p>
 
 
 
