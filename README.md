@@ -12,11 +12,7 @@ Welcome to my GitHub profile!
 
 
 
-https://harmonious-druid-e5f2ce.netlify.app
 
-https://cozy-granita-5010e8.netlify.app
-
-https://sparkle-mauve.vercel.app
 
 
 - 🌱 I’m currently learning **Networking**
